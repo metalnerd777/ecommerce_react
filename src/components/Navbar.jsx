@@ -56,7 +56,7 @@ const Right = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  ${mobile({ JustifyContent: "center" })}
+  ${mobile({ flex: 2, JustifyContent: "center" })}
 `;
 
 const MenuItem = styled.div`
