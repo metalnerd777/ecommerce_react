@@ -1,14 +1,14 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://cdnx.jumpseller.com/kadrihel1/image/13735183/resize/635/635?1611164751",
+    img: "https://i.ibb.co/cXFnLLV/3.png",
     title: "SUMMER SALE",
     desc: "Don't compromise on style! GET FLAT 30% OFF FOR NEW ARRIVALS",
     bg: "f5fafd",
   },
   {
     id: 1,
-    img: "https://img.favpng.com/2/18/12/model-winter-woman-png-favpng-Ut8WHkt3u9c8Cn65MJAPGipcp.jpg",
+    img: "https://i.ibb.co/DG69bQ4/2.png",
     title: "AUTUMN SALE",
     desc: "Don't compromise on style! GET FLAT 30% OFF FOR NEW ARRIVALS",
     bg: "fcf1ed",
